@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/js/jquery-1.10.2.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" />
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".owl-slider").owlCarousel({
+            loop: true,
+            nav: true,
+            items: 1,
+            autoplay: true,
+            autoPlaySpeed: 3000,
+            autoPlayTimeout: 3000,
+            autoplayHoverPause: true,
+            navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>']
+        });
+    });
+</script>
+
+<div class="owl-carousel banner owl-slider">
+    <img src="~/collegeimage.jpg" />
+    <img src="~/Barrie-campus-scenic-backpack_065.jpg" />
+    <img src="~/Georgian-Barrie-front-Sept-2014_4.jpg" />
+    <img src="~/RS5143_Advanced-Technology-Centre-shoot-September-2018_2-lpr-1024x605.jpg" />
+    
+</div>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Georgian College <a href="https://www.georgiancollege.ca/">is a College of Applied Arts and Technology in Ontario, Canada.</a>.</p>
+
+</div>
+

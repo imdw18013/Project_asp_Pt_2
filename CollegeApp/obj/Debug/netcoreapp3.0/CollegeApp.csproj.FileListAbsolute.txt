@@ -1,0 +1,1222 @@
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Company\Create.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Company\Edit.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Company\Index.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeShift\Create.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeShift\Edit.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeShift\Index.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Create.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Edit.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Index.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\OfficeTimming\Create.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\OfficeTimming\Edit.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\OfficeTimming\Index.cshtml.g.cs
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\New\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+H:\New\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+D:\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CoreCompileInputs.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+D:\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.genruntimeconfig.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+D:\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+H:\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CoreCompileInputs.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+E:\CollegeApp (2)\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.genruntimeconfig.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CoreCompileInputs.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\scopedcss\bundle\CollegeApp.styles.css
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+D:\Kulvinder project\CollegeApp New\CollegeApp\CollegeApp\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.genruntimeconfig.cache
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CollegeApp_Dharminder\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CoreCompileInputs.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+F:\CollegeApp_Dharminder\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.genruntimeconfig.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CoreCompileInputs.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\scopedcss\bundle\CollegeApp.styles.css
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.genruntimeconfig.cache
+D:\Kulvinder project\CollegeApp final\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\appsettings.json
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.exe
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.deps.json
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.json
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.runtimeconfig.dev.json
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.pdb
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Dapper.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CollegeApp_theme_datatable\CollegeApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csprojAssemblyReference.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CoreCompileInputs.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorAssemblyInfo.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfoInputs.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.AssemblyInfo.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.input.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.TagHelpers.output.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorCoreGenerate.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Create.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Edit.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\College\Index.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Create.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Edit.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Create.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Edit.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\RoleAuthorization\Index.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Create.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Edit.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Index.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.RazorTargetAssemblyInfo.cs
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.Views.pdb
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.csproj.CopyComplete
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.Manifest.cache
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\staticwebassets\CollegeApp.StaticWebAssets.xml
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.dll
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.pdb
+F:\CollegeApp_theme_datatable\CollegeApp\obj\Debug\netcoreapp3.0\CollegeApp.genruntimeconfig.cache

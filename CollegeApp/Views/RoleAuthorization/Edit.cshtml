@@ -1,0 +1,113 @@
+﻿@model CompanyApp.Models.RoleAuthorModel
+
+@{
+    ViewData["Title"] = "Edit Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+
+    List<string> accesspagesList = Model.AccessPages.Split(',').ToList();
+    var Home = accesspagesList.Where(d => d.Contains("Home")).FirstOrDefault();
+    bool accessHome = Home == null ? false : true;
+    var College = accesspagesList.Where(d => d.Contains("College")).FirstOrDefault();
+    bool accessCollege = College == null ? false : true;
+    var User = accesspagesList.Where(d => d.Contains("User")).FirstOrDefault();
+    bool accessUser = User == null ? false : true;
+    var Department = accesspagesList.Where(d => d.Contains("Department")).FirstOrDefault();
+    bool accessDepartment = Department == null ? false : true;
+    var RoleAuthorization = accesspagesList.Where(d => d.Contains("RoleAuthorization")).FirstOrDefault();
+    bool accessRoleAuthorization = RoleAuthorization == null ? false : true;
+}
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Edit Role</h4>
+            <p class="card-description">Please enter Role Details </p>
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="ID" />
+                <div class="form-group">
+                    <label asp-for="RoleName" class="control-label"></label>
+                    <input asp-for="RoleName" class="form-control" />
+                    <span asp-validation-for="RoleName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    @Html.HiddenFor(d => d.AccessPages)
+                    <label asp-for="AccessPages" class="control-label"></label>
+                    <br />
+                    <label><input type="checkbox" id="chkHome" @(accessHome == true ? "checked=checked" : "") value="" /> Access for Home Screen<br /></label>
+                    <label> <input type="checkbox" id="chkCollege" @(accessCollege == true ? "checked=checked" : "") />Access for College Screen<br /></label>
+                    <label> <input type="checkbox" id="chkUser" @(accessUser == true ? "checked=checked" : "") />Access for User Screen<br /></label>
+                    <label><input type="checkbox" id="chkDepartment" @(accessDepartment == true ? "checked=checked" : "") />Access for Department Screen<br /></label>
+                    <label><input type="checkbox" id="chkRoleAuthorization" @(accessRoleAuthorization == true ? "checked=checked" : "") />Access for Role Authorization Screen<br /></label>
+                </div>
+
+                <input type="submit" value="Update" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-light">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script>
+    $(document).ready(function () {
+
+        $("#chkHome").change(function () {
+            var aapages = $("#AccessPages").val();
+            if ($(this).is(":checked")) {
+                aapages += ",Home";
+            }
+            else {
+                aapages = aapages.replace(",Home", "");
+            }
+            $("#AccessPages").val(aapages);
+        })
+        $("#chkCollege").change(function () {
+            var aapages = $("#AccessPages").val();
+            if ($(this).is(":checked")) {
+                aapages += ",College";
+            }
+            else {
+                aapages = aapages.replace(",College", "");
+            }
+            $("#AccessPages").val(aapages);
+        })
+        $("#chkUser").change(function () {
+            var aapages = $("#AccessPages").val();
+            if ($(this).is(":checked")) {
+                aapages += ",User";
+            }
+            else {
+                aapages = aapages.replace(",User", "");
+            }
+            $("#AccessPages").val(aapages);
+        })
+        $("#chkDepartment").change(function () {
+            debugger;
+            var aapages = $("#AccessPages").val();
+            if ($(this).is(":checked")) {
+                aapages += ",Department";
+            }
+            else {
+                aapages = aapages.replace(",Department", "");
+            }
+            $("#AccessPages").val(aapages);
+        })
+        $("#chkRoleAuthorization").change(function () {
+            var aapages = $("#AccessPages").val();
+            if ($(this).is(":checked")) {
+                aapages += ",RoleAuthorization";
+            }
+            else {
+                aapages = aapages.replace(",RoleAuthorization", "");
+            }
+            $("#AccessPages").val(aapages);
+        })
+    })
+
+</script>
+

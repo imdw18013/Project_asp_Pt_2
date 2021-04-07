@@ -1,0 +1,270 @@
+﻿@using Microsoft.AspNetCore.Mvc;
+@using Microsoft.AspNetCore.Http;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>College Admin</title>
+    <!-- plugins:css -->
+    <link href="~/css/custom.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/dashboard_style.css" rel="stylesheet" />
+    <!-- End layout styles -->
+    <link rel="shortcut icon" href="assets/images/favicon.ico" />
+ 
+</head>
+@{
+    string accesspages = ViewData["AccessPages"] + "";
+    List<string> accesspagesList = new List<string>(); ;
+    if (accesspages != null)
+    {
+        accesspagesList = accesspages.Split(',').ToList();
+    }
+    var Home = accesspagesList.Where(d => d.Contains("Home")).FirstOrDefault();
+    bool accessHome = Home == null ? false : true;
+    var College = accesspagesList.Where(d => d.Contains("College")).FirstOrDefault();
+    bool accessCollege = College == null ? false : true;
+    var User = accesspagesList.Where(d => d.Contains("User")).FirstOrDefault();
+    bool accessUser = User == null ? false : true;
+    var Department = accesspagesList.Where(d => d.Contains("Department")).FirstOrDefault();
+    bool accessDepartment = Department == null ? false : true;
+    var RoleAuthorization = accesspagesList.Where(d => d.Contains("RoleAuthorization")).FirstOrDefault();
+    bool accessRoleAuthorization = RoleAuthorization == null ? false : true;
+}
+<body>
+    <style>
+        ul.navbar-nav > li > a {
+            color:black !important;
+        }
+    </style>
+    <div class="container-scroller">
+        <!-- partial:partials/_navbar.html -->
+        <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center" style="background: gainsboro !important;
+    width: 250px;">
+                College Admin
+            </div>
+            <div class="navbar-menu-wrapper d-flex align-items-stretch">
+                <ul class="navbar-nav navbar-nav-right">
+                    <li class="nav-item nav-profile dropdown">
+                        <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Logout">
+                            Signout
+
+                            @*<div class="nav-profile-text">
+            <p class="mb-1 text-black">@ViewData["Email"] </p>
+            <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Logout">
+                <i class="mdi mdi-logout mr-2 text-primary"></i> Signout
+            </a>
+        </div>*@
+                        </a>
+                        <div class="dropdown-menu navbar-dropdown" aria-labelledby="profileDropdown">
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Logout">
+                                <i class="mdi mdi-logout mr-2 text-primary"></i> Logout
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+                <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+                    <span class="mdi mdi-menu"></span>
+                </button>
+            </div>
+        </nav>
+        <!-- partial -->
+        <div class="container-fluid page-body-wrapper">
+            <!-- partial:partials/_sidebar.html -->
+            <nav class="sidebar sidebar-offcanvas" id="sidebar">
+                <ul class="nav">
+
+                    @if (accessHome)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                                <span class="menu-title">Dashboard</span>
+                                <i class="mdi mdi-table-large menu-icon"></i>
+                            </a>
+                        </li>
+
+                    }
+                    @if (accessCollege)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="College" asp-action="Index">
+                                <span class="menu-title">Colleges</span>
+                                <i class="mdi mdi-table-large menu-icon"></i>
+                            </a>
+                        </li>
+
+                    }
+                    @if (accessDepartment)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Department" asp-action="Index">
+                                <span class="menu-title">Departments</span>
+                                <i class="mdi mdi-table-large menu-icon"></i>
+                            </a>
+                        </li>
+                    }
+                    @if (accessUser)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="User" asp-action="Index">
+                                <span class="menu-title">Users</span>
+                                <i class="mdi mdi-table-large menu-icon"></i>
+                            </a>
+                        </li>
+
+                    }
+                    @if (accessRoleAuthorization)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="RoleAuthorization" asp-action="Index">
+                                <span class="menu-title">Role Authorization</span>
+                                <i class="mdi mdi-table-large menu-icon"></i>
+                            </a>
+                        </li>
+                    }
+
+                </ul>
+            </nav>
+            <!-- partial -->
+            <div class="main-panel">
+                <div class="content-wrapper">
+                    @if (TempData["SuccessMsg"] != null)
+                    {
+                        <div class="alert alert-success">@TempData["SuccessMsg"] </div>
+                    }
+
+                    @if (TempData["ErrorMsg"] != null)
+                    {
+                        <div class="alert alert-danger">@TempData["ErrorMsg"] </div>
+                    }
+                    @RenderBody()
+                </div>
+            </div>
+            <!-- main-panel ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+
+
+  
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
+    @RenderSection("Scripts", required: false)
+    <script>
+        $(document).ready(function () {
+            $('.table').DataTable({
+                "order": [[0, "asc"]], "responsive": true, "paging": true, "bSearchable": false, "bFilter": false, "bInfo": false, 'aoColumnDefs': [{ 'bSortable': true, 'aTargets': ['nosort'] }]
+            });
+        })
+    </script>
+</body>
+</html>
+
+
+
+@*<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> College Admin</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    @{
+        string accesspages = ViewData["AccessPages"] + "";
+        List<string> accesspagesList = new List<string>(); ;
+        if (accesspages != null)
+        {
+            accesspagesList = accesspages.Split(',').ToList();
+        }
+        var Home = accesspagesList.Where(d => d.Contains("Home")).FirstOrDefault();
+        bool accessHome = Home == null ? false : true;
+        var College = accesspagesList.Where(d => d.Contains("College")).FirstOrDefault();
+        bool accessCollege = College == null ? false : true;
+        var User = accesspagesList.Where(d => d.Contains("User")).FirstOrDefault();
+        bool accessUser = User == null ? false : true;
+        var Department = accesspagesList.Where(d => d.Contains("Department")).FirstOrDefault();
+        bool accessDepartment = Department == null ? false : true;
+        var RoleAuthorization = accesspagesList.Where(d => d.Contains("RoleAuthorization")).FirstOrDefault();
+        bool accessRoleAuthorization = RoleAuthorization == null ? false : true;
+    }
+    <body>
+        <header>
+            <nav style="background-color: aquamarine !important;" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <div class="container">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">College Admin</a>
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <ul class="navbar-nav flex-grow-1">
+                            @if (accessHome)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                </li>
+                            }
+                            @if (accessCollege)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="College" asp-action="Index">Colleges List</a>
+                                </li>
+                            }
+                            @if (accessDepartment)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Department" asp-action="Index">Departments List</a>
+                                </li>
+                            }
+                            @if (accessUser)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">User List</a>
+                                </li>
+                            }
+                            @if (accessRoleAuthorization)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="RoleAuthorization" asp-action="Index">User Role Authorization </a>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Logout">Admin Logout </a>
+                </div>
+            </nav>
+        </header>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @if (TempData["SuccessMsg"] != null)
+                {
+                    <div class="alert alert-success">@TempData["SuccessMsg"] </div>
+                }
+
+                @if (TempData["ErrorMsg"] != null)
+                {
+                    <div class="alert alert-danger">@TempData["ErrorMsg"] </div>
+                }
+
+                @RenderBody()
+            </main>
+        </div>
+
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @RenderSection("Scripts", required: false)
+    </body>
+    </html>*@

@@ -1,0 +1,97 @@
+﻿@model CompanyApp.Models.RoleAuthorModel
+
+@{
+    ViewData["Title"] = "Create Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Role</h4>
+            <p class="card-description">Please enter Role Details </p>
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="RoleName" class="control-label"></label>
+                    <input asp-for="RoleName" class="form-control" />
+                    <span asp-validation-for="RoleName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    @Html.HiddenFor(d => d.AccessPages)
+                    <label asp-for="AccessPages" class="control-label"></label>
+                    <br />
+                    <label><input type="checkbox" id="chkHome" value="" />Access for Home page<br /></label>
+                    <label> <input type="checkbox" id="chkCollege" />Access for College page<br /></label>
+                    <label> <input type="checkbox" id="chkUser" />Access for User page<br /></label>
+                    <label><input type="checkbox" id="chkDepartment" />vAccess for Department page<br /></label>
+                    <label><input type="checkbox" id="chkRoleAuthorization" />Access for Role Authorization page<br /></label>
+                </div>
+
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-light">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        
+        $(document).ready(function () {
+
+            $("#chkHome").change(function () {
+                var aapages = $("#AccessPages").val();
+                if ($(this).is(":checked")) {
+                    aapages += ",Home";
+                }
+                else {
+                    aapages =  aapages.replace(",Home", "");
+                }
+                $("#AccessPages").val(aapages);
+            })
+            $("#chkCollege").change(function () {
+                var aapages = $("#AccessPages").val();
+                if ($(this).is(":checked")) {
+                    aapages += ",College";
+                }
+                else {
+                    aapages = aapages.replace(",College", "");
+                }
+                $("#AccessPages").val(aapages);
+            })
+            $("#chkUser").change(function () {
+                var aapages = $("#AccessPages").val();
+                if ($(this).is(":checked")) {
+                    aapages += ",User";
+                }
+                else {
+                    aapages =  aapages.replace(",User", "");
+                }
+                $("#AccessPages").val(aapages);
+            })
+            $("#chkDepartment").change(function () {
+                var aapages = $("#AccessPages").val();
+                if ($(this).is(":checked")) {
+                    aapages += ",Department";
+                }
+                else {
+                    aapages = aapages.replace(",Department", "");
+                }
+                $("#AccessPages").val(aapages);
+            })
+            $("#chkRoleAuthorization").change(function () {
+                var aapages = $("#AccessPages").val();
+                if ($(this).is(":checked")) {
+                    aapages += ",RoleAuthorization";
+                }
+                else {
+                    aapages =  aapages.replace(",RoleAuthorization", "");
+                }
+                $("#AccessPages").val(aapages);
+            })
+        })
+    })
+
+</script>
+
